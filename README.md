@@ -1,4 +1,4 @@
-# React Social App :metal:
+# Apollo Graphql React Social App :metal:
 
 > Каждая строка кода снабжена подробным комментарием
 
